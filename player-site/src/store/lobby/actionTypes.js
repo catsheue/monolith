@@ -1,0 +1,2 @@
+export const GET_LOBBY_IMAGE = "GET_LOBBY_IMAGE";
+export const CLEAR_LOBBY_IMAGE = "CLEAR_LOBBY_IMAGE";
